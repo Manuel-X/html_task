@@ -1,0 +1,157 @@
+body{
+	font-family:"Comic Sans MS";
+}
+
+.hobbies-img{
+	border: solid 5px maroon;
+	border-radius: 20%;
+	padding: 10px;
+	margin-right: 120px;
+	margin-top: 30px;
+
+}
+.hobbies-img:hover{
+	transform: scale(1.2);
+
+
+}
+
+.profile-image {
+	margin-left: 260px;
+	margin-top: 10px;
+	border: solid 5px maroon;
+	border-radius: 50%;
+	transition: all 1s
+
+}
+
+.profile-image:hover {
+	transform: scale(1.2) rotate(10deg);
+}
+
+.coded-logo {
+	margin-bottom: 15px;
+	margin-left: 15px;
+	transition: all 1s
+
+}
+
+.coded-logo:hover {
+	transform: scale(1.05);
+	background-color: black;
+}
+
+.coded-logo2 {
+	margin-bottom: 15px;
+	margin-left: 15px;
+	background-color: yellow;
+	margin-left: 250px;
+	transition: all 1s
+}
+
+.coded-logo2:hover {
+	transform: scale(1.05);
+	border: solid 5px maroon;
+}
+
+h1{
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	background-color: #e2e2e2;
+	color:maroon;
+	padding:4px;
+	text-align: center;
+}
+
+h2{
+	background-color: #F5D1D6;
+	color:#767373;
+	padding:4px;
+}
+
+h3{
+	text-transform: uppercase;
+	background-color: #D5DAFB;
+	color:#767373;
+	padding:4px;
+}
+
+.spaces{
+	margin-left: 160px;
+	word-spacing: 230px;
+	text-align: justify;
+}
+
+.football-label {
+  position: absolute;
+  bottom: 260px;
+  left: 160px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: maroon;
+}
+
+.tennis-label {
+  position: absolute;
+  bottom: 260px;
+  left: 440px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: maroon;
+}
+
+.cars-label {
+  position: absolute;
+  bottom: 260px;
+  left: 780px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: maroon;
+}
+
+.music-label {
+  position: absolute;
+  bottom: 260px;
+  left: 1080px;
+  font-size: 20px;
+  font-weight: bolder;
+  color: maroon;
+}
+
+.git{
+	background-color: black;
+	color:white;
+	padding: 2px;
+}
+
+.football-list{
+  position: relative;
+  left: 110px;
+  bottom: -10px;
+  color: maroon;
+  margin-bottom: 50px;
+}
+
+.tennis-list{
+  position: absolute;
+  left: 420px;
+  bottom: -105px;
+  color: maroon;
+  margin-bottom: 50px;
+}
+
+.cars-list{
+  position: absolute;
+  left: 730px;
+  bottom: -105px;
+  color: maroon;
+  margin-bottom: 50px;
+}
+
+.music-list{
+  position: absolute;
+  left: 1030px;
+  bottom: -105px;
+  color: maroon;
+  margin-bottom: 50px;
+}
