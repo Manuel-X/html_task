@@ -12,12 +12,13 @@ body{
 }
 .hobbies-img:hover{
 	transform: scale(1.2);
+	background-color: black;
 
 
 }
 
 .profile-image {
-	margin-left: 260px;
+	margin-left: 275px;
 	margin-top: 10px;
 	border: solid 5px maroon;
 	border-radius: 50%;
@@ -38,7 +39,7 @@ body{
 
 .coded-logo:hover {
 	transform: scale(1.05);
-	background-color: black;
+	background-color: green;
 }
 
 .coded-logo2 {
@@ -84,7 +85,7 @@ h3{
 
 .football-label {
   position: absolute;
-  bottom: 260px;
+  bottom: -130px;
   left: 160px;
   font-size: 20px;
   font-weight: bolder;
@@ -93,7 +94,7 @@ h3{
 
 .tennis-label {
   position: absolute;
-  bottom: 260px;
+  bottom: -130px;
   left: 440px;
   font-size: 20px;
   font-weight: bolder;
@@ -102,7 +103,7 @@ h3{
 
 .cars-label {
   position: absolute;
-  bottom: 260px;
+  bottom: -130px;
   left: 780px;
   font-size: 20px;
   font-weight: bolder;
@@ -111,7 +112,7 @@ h3{
 
 .music-label {
   position: absolute;
-  bottom: 260px;
+  bottom: -130px;
   left: 1080px;
   font-size: 20px;
   font-weight: bolder;
@@ -127,8 +128,8 @@ h3{
 .football-list{
   position: relative;
   left: 110px;
-  bottom: -10px;
-  color: maroon;
+  bottom: 130px;
+  color: white;
   margin-bottom: 50px;
 }
 
@@ -136,7 +137,7 @@ h3{
   position: absolute;
   left: 420px;
   bottom: -105px;
-  color: maroon;
+  color: white;
   margin-bottom: 50px;
 }
 
@@ -144,7 +145,7 @@ h3{
   position: absolute;
   left: 730px;
   bottom: -105px;
-  color: maroon;
+  color: white;
   margin-bottom: 50px;
 }
 
@@ -152,6 +153,6 @@ h3{
   position: absolute;
   left: 1030px;
   bottom: -105px;
-  color: maroon;
+  color: white;
   margin-bottom: 50px;
 }
